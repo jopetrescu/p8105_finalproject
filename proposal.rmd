@@ -1,5 +1,5 @@
 ---
-title: "proposal"
+title: "p8105 final project proposal"
 author: "Chariz Seijo, Joana Petrescu, Vihar Desu, Sanjana Batabyal"
 date: "11/7/2020"
 output: github_document
@@ -14,5 +14,17 @@ output: github_document
 
 ## Tentative project title
 
-"Correlation analysis of reduced access to care and depression or anxiety symptoms"
+"Correlation analysis of reduced access to care and depression or anxiety symptoms during COVID-19"
+
+## Motivation for this project
+
+The COVID-19 pandemic has drastically affected access to care across the United States due to such factors as diversion of medical resources and personnel, reduced access to transportation, and fear of transmission of COVID-19 in healthcare facilities. Additionally, the COVID-19 pandemic as well as public health measures in place to reduce its spread have been proposed to cause an increase in mental health needs. The U.S. Census Bureau, the CDC, and four additional federal agencies have conducted the Household Pulse Survey to measure social and economic effects of the COVID-19 pandemic. Among these data are measures of indicators of reduced access to care and depression/anxiety symtpoms. We propose to investigate whether there exists a correlation between reduced access to care and depression/anxiety symptoms during COVID-19 using these data. We will compare reduction in access to care and mental health outcomes by age, gender, race, education and state.
+
+## Intended final product
+
+Plots comparing indicators of depression/anxiety symptoms and reduced access to care by age, gender, race, and education level. Both of these indicators will be mapped by state also in order to determine where access to care has decreased and mental health needs have increased and whether there is any geographical overlap between these two outcomes.
+
+## Data sources
+
+We plan to use the Household Pulse Survey data which measures [indicators of anxiety or depression](https://healthdata.gov/dataset/indicators-anxiety-or-depression-based-reported-frequency-symptoms-during-last-7-days) and [indicators of reduced access to care](https://healthdata.gov/dataset/indicators-reduced-access-care-due-coronavirus-pandemic-during-last-4-weeks) during the coronavirus pandemic.
 
