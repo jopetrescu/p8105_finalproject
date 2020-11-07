@@ -48,3 +48,16 @@ depression](https://healthdata.gov/dataset/indicators-anxiety-or-depression-base
 and [indicators of reduced access to
 care](https://healthdata.gov/dataset/indicators-reduced-access-care-due-coronavirus-pandemic-during-last-4-weeks)
 during the coronavirus pandemic.
+
+## Analysis, visualization, and coding challenges
+
+We propose to map these measurements by state but none of us have
+previous experience creating geographic visualizations of data.
+Furthermore, the data represent only the confidence intervals for the
+indicators of reduced access to care and increased mental health needs
+and not raw survey responses so we will be limited in the analyses that
+we can perform using these data.
+
+## Proposed timeline
+
+We will
