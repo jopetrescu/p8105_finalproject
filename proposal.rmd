@@ -34,4 +34,13 @@ We propose to map these measurements by state but none of us have previous exper
 
 ## Proposed timeline
 
-We will 
+11/10-13/2020 Project review meeting
+11/14/2020 Clean data
+11/18/2020 Initial scatter plots comparing reduced access to care and mental health symptoms by group/state
+11/24/2020 Maps visualizing reduced access to care and mental health symptoms by state
+12/1/2020 First draft of written report
+12/2-4/2020 Work on interactive website and screencast
+12/5/2020 Final written report
+12/5/2020 Final video
+12/5/2020 Peer assessment
+
